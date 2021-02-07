@@ -30,7 +30,7 @@ Oceania,OC,Solomon Islands,SB,SLB,90
 North America,NA,British Virgin Islands,VG,VGB,92
 Asia,AS,Brunei Darussalam,BN,BRN,96
 Europe,EU,Bulgaria,BG,BGR,100
-Asia,AS,"Myanmar, Union of",MM,MMR,104
+Asia,AS,Myanmar,MM,MMR,104
 Africa,AF,Burundi,BI,BDI,108
 Europe,EU,Belarus,BY,BLR,112
 Asia,AS,Cambodia,KH,KHM,116
@@ -42,14 +42,14 @@ Africa,AF,Central African Republic,CF,CAF,140
 Asia,AS,"Sri Lanka, Democratic Socialist Republic of",LK,LKA,144
 Africa,AF,Chad,TD,TCD,148
 South America,SA,Chile,CL,CHL,152
-Asia,AS,"China, People's Republic of",CN,CHN,156
+Asia,AS,China,CN,CHN,156
 Asia,AS,Taiwan,TW,TWN,158
 Asia,AS,Christmas Island,CX,CXR,162
 Asia,AS,Cocos (Keeling) Islands,CC,CCK,166
 South America,SA,Colombia,CO,COL,170
 Africa,AF,"Comoros, Union of the",KM,COM,174
 Africa,AF,Mayotte,YT,MYT,175
-Africa,AF,Congo,CD,COD,180
+Africa,AF,"Congo, Rep.",CD,COD,180
 Oceania,OC,Cook Islands,CK,COK,184
 North America,NA,Costa Rica,CR,CRI,188
 Europe,EU,Croatia,HR,HRV,191
@@ -161,7 +161,6 @@ Oceania,OC,Niue,NU,NIU,570
 Oceania,OC,Norfolk Island,NF,NFK,574
 Europe,EU,Norway,NO,NOR,578
 Oceania,OC,"Northern Mariana Islands, Commonwealth of the",MP,MNP,580
-Oceania,OC,United States Minor Outlying Islands,UM,UMI,581
 Oceania,OC,"Micronesia, Federated States of",FM,FSM,583
 Oceania,OC,Marshall Islands the,MH,MHL,584
 Oceania,OC,Palau,PW,PLW,585
@@ -216,7 +215,7 @@ Europe,EU,"Switzerland, Swiss Confederation",CH,CHE,756
 Asia,AS,Syrian Arab Republic,SY,SYR,760
 Asia,AS,Tajikistan,TJ,TJK,762
 Asia,AS,Thailand,TH,THA,764
-Africa,AF,"Togo, Togolese Republic",TG,TGO,768
+Africa,AF,Togo,TG,TGO,768
 Oceania,OC,Tokelau,TK,TKL,772
 Oceania,OC,Tonga,TO,TON,776
 North America,NA,Trinidad and Tobago,TT,TTO,780
@@ -229,14 +228,13 @@ Oceania,OC,Tuvalu,TV,TUV,798
 Africa,AF,Uganda,UG,UGA,800
 Europe,EU,Ukraine,UA,UKR,804
 Europe,EU,"Macedonia, The Former Yugoslav Republic of",MK,MKD,807
-Africa,AF,"Egypt, Arab Republic of",EG,EGY,818
+Africa,AF,Egypt,EG,EGY,818
 Europe,EU,United Kingdom of Great Britain & Northern Ireland,GB,GBR,826
 Europe,EU,"Guernsey, Bailiwick of",GG,GGY,831
 Europe,EU,"Jersey, Bailiwick of",JE,JEY,832
 Europe,EU,Isle of Man,IM,IMN,833
 Africa,AF,"Tanzania, United Republic of",TZ,TZA,834
 North America,NA,United States,US,USA,840
-North America,NA,United States Virgin Islands,VI,VIR,850
 Africa,AF,Burkina Faso,BF,BFA,854
 South America,SA,"Uruguay, Eastern Republic of",UY,URY,858
 Asia,AS,Uzbekistan,UZ,UZB,860
